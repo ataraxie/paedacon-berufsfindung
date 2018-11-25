@@ -152,7 +152,7 @@ p.lead {
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
-  max-width: 65rem;
+  max-width: 75rem;
 }
 
 section.resume-section .resume-item .resume-date {
@@ -173,19 +173,6 @@ section.resume-section .resume-item .resume-date {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important;
   }
-}
-
-.resume-section p, .resume-section blockquote {
-  font-size: 1.25rem;
-}
-
-.resume-section a {
-  color: #518c39;
-}
-
-.resume-section a:hover {
-  color: #334c29;
-  text-decoration: none;
 }
 
 .bg-primary {
