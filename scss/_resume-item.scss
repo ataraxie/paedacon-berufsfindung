@@ -1,7 +1,7 @@
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
-  max-width: 65rem;
+  max-width: 75rem;
   .resume-item {
     .resume-content {}
     .resume-date {
@@ -23,19 +23,5 @@ section.resume-section {
   section.resume-section {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important;
-  }
-}
-
-.resume-section {
-  p, blockquote {
-    font-size: 1.25rem;
-  }
-
-  a {
-    color: $lightgreen;
-    &:hover {
-      color: $darkgreen;
-      text-decoration: none;
-    }
   }
 }

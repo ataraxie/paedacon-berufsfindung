@@ -152,7 +152,7 @@ p.lead {
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
-  max-width: 65rem;
+  max-width: 75rem;
 }
 
 section.resume-section .resume-item .resume-date {
@@ -175,19 +175,6 @@ section.resume-section .resume-item .resume-date {
   }
 }
 
-.resume-section p, .resume-section blockquote {
-  font-size: 1.25rem;
-}
-
-.resume-section a {
-  color: #518c39;
-}
-
-.resume-section a:hover {
-  color: #334c29;
-  text-decoration: none;
-}
-
 .bg-primary {
   background-color: #334c29 !important;
 }
@@ -202,4 +189,85 @@ a {
 
 a:hover, a:focus, a:active {
   color: #121a0e;
+}
+
+section.pae-section a {
+  color: #518c39;
+}
+
+section.pae-section a:hover {
+  color: #334c29;
+  text-decoration: none;
+}
+
+section.pae-section .pae-split-con {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  overflow: auto;
+  margin-bottom: 1rem;
+}
+
+section.pae-section .pae-split-con .pae-split1 {
+  float: left;
+}
+
+section.pae-section .pae-split-con .pae-split2 {
+  float: right;
+}
+
+section.pae-section .pae-split-con .pae-image {
+  width: 45%;
+}
+
+section.pae-section .pae-split-con .pae-image img {
+  width: 100%;
+}
+
+section.pae-section .pae-split-con .pae-text {
+  width: 55%;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+section.pae-section .pae-split-con .pae-text .pae-content {
+  padding: 1rem;
+}
+
+section.pae-section p {
+  font-size: 1.15rem;
+}
+
+section.pae-section p.large {
+  font-size: 1.5rem;
+}
+
+section.pae-section p.small {
+  font-size: 1rem;
+}
+
+section.pae-section p.bold {
+  font-weight: bold;
+}
+
+section.pae-section .pae-quote {
+  max-width: 30rem;
+}
+
+section.pae-section .pae-quote .quote {
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+section.pae-section .pae-quote .source {
+  text-align: right;
+  font-size: 1rem;
+}
+
+section.pae-section .pae-quote .source .title {
+  font-style: italic;
 }
