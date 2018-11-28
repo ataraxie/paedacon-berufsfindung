@@ -1,7 +1,46 @@
+body {
+  overflow: hidden !important;
+}
+
+#overview {
+  .pae-image {
+    width: 25rem;
+  }
+  .pae-text {
+    max-width: 35rem;
+    .pae-content {
+      p:nth-of-type(2) {
+        margin-bottom: 0;
+      }
+      p:last-of-type {
+        margin-bottom: 2rem;
+      }
+    }
+  }
+}
+
+#background {
+  .pae-image {
+    width: 16rem;
+  }
+  .pae-text {
+    max-width: 38rem;
+  }
+}
+
 section.pae-section {
+  max-width: 65rem;
+
+  h1 {
+    margin-bottom: 1rem !important;
+  }
+  h2 {
+    margin-bottom: 0.5rem !important;
+  }
 
   a {
     color: $lightgreen;
+    padding-left: 0.4rem;
     &:hover {
       color: $darkgreen;
       text-decoration: none;
@@ -9,8 +48,6 @@ section.pae-section {
   }
 
   .pae-split-con {
-    display: flex;
-    flex-direction: row;
     overflow: auto;
     margin-bottom: 1rem;
 
@@ -18,30 +55,34 @@ section.pae-section {
       float: left;
     }
     .pae-split2 {
-      float: right;
-    }
-
-    .pae-image {
-      width: 45%;
-
-      img {
-        width: 100%;
-      }
+      float: left;
     }
 
     .pae-text {
-      width: 55%;
-      align-self: center;
+      align-self: start;
+      text-align: justify;
+    }
 
-      .pae-content {
-        padding: 1rem;
+    .pae-content {
+      &.padding-right {
+        padding: 0 1.3rem 0 0;
+      }
+      &.padding-left {
+        padding: 0 0 0 1rem;
       }
     }
 
   }
 
+  img {
+    width: 100%;
+    border: 2px solid $darkgreen;
+  }
+
   p {
-    font-size: 1.15rem;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+
     &.large {
       font-size: 1.5rem;
     }
