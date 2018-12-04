@@ -19,15 +19,6 @@ body {
   }
 }
 
-#background {
-  .pae-image {
-    width: 16rem;
-  }
-  .pae-text {
-    max-width: 38rem;
-  }
-}
-
 section.pae-section {
   max-width: 65rem;
 
@@ -53,23 +44,25 @@ section.pae-section {
 
     .pae-split1 {
       float: left;
+      &.pae-text {
+        padding: 0 1.3rem 0 0;
+      }
     }
     .pae-split2 {
       float: left;
+      &.pae-text {
+        padding: 0 0 0 1rem;
+      }
+    }
+
+    .pae-image {
+      width: 16rem;
     }
 
     .pae-text {
+      max-width: 38rem;
       align-self: start;
       text-align: justify;
-    }
-
-    .pae-content {
-      &.padding-right {
-        padding: 0 1.3rem 0 0;
-      }
-      &.padding-left {
-        padding: 0 0 0 1rem;
-      }
     }
 
   }
