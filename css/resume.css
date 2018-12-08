@@ -203,12 +203,37 @@ body {
   max-width: 35rem;
 }
 
+#overview .pae-text .pae-content {
+  padding-top: 4rem;
+}
+
 #overview .pae-text .pae-content p:nth-of-type(2) {
   margin-bottom: 0;
 }
 
 #overview .pae-text .pae-content p:last-of-type {
   margin-bottom: 2rem;
+}
+
+#workshops p:nth-last-of-type(3) {
+  padding-top: 1rem;
+  color: #dc4e38;
+}
+
+#workshops p:nth-last-of-type(2) {
+  color: #dc4e38;
+}
+
+#contact .pae-image {
+  width: 400px;
+}
+
+#contact .pae-text {
+  max-width: 34rem;
+}
+
+#contact .pae-text .pae-content {
+  padding-top: 3rem;
 }
 
 section.pae-section {
@@ -276,7 +301,7 @@ section.pae-section p {
 }
 
 section.pae-section p.large {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
 }
 
 section.pae-section p.small {
