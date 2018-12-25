@@ -193,6 +193,11 @@ a:hover, a:focus, a:active {
 
 body {
   overflow: hidden !important;
+  color: #4e4e4e;
+}
+
+#overview {
+  background: #f9eecc;
 }
 
 #overview .pae-image {
