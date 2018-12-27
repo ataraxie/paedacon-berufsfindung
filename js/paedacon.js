@@ -5,8 +5,9 @@ window.PAE = {
 		"Mein Angebot",
 		"Über mich",
 		"Einzelberatung",
-		"Workshops",
-		"Kontakt"
+		"Kontakt",
+		"Rückmeldungen",
+		"Impressum"
 	],
 	Startseite: [
 		"Paedacon",
@@ -51,23 +52,34 @@ window.PAE = {
 		"Einzelberatung über Skype ist möglich und bei großen Entfernungen auch sinnvoll.",
 		"Die Kosten für eine Einzelstunde orientieren sich an Stundenlöhnen von selbstständigen Handwerksmeistern. Genaue Informationen erhalten Sie auf Anfrage.",
 	],
-	Workshops: [
-		"Workshops",
-		"Ich biete 2-tägige Wochenend-Workshops für Schulabgänger und für Berufstätige/Studierende an. Die Workshops dauern jeweils am Samstag von 10.00 Uhr bis 18.00 Uhr und am Sonntag von 9.30 Uhr bis 16.00 Uhr.",
-		"Die Teilnehmerzahl pro Workshop ist auf 4 Personen begrenzt, damit ich jeder teilnehmenden Person gerecht werden kann.",
-		"Zusätzliche Workshops unter der Woche biete ich für Personen an, die schon als feststehende Gruppe (2 bis 4 Personen) bei mir anfragen.",
-		"Am Ende eines Workshops wissen die Teilnehmer, in welche Richtung sie sich beruflich entwickeln möchten und haben Anregungen erhalten für ihre individuell passende Tätigkeit.",
-		"Nächster Termin für Schulabgänger: Termin",
-		"Nächster Termin für Berufstätige/Studierende: Termin",
-		"Kosten pro Workshop: _____ Euro pro Person"
-	],
 	Kontakt: [
 		"Kontakt",
-		"Ich lebe und arbeite in Walkersdorf auf einem ehemaligen Bauernhof. Der älteste Teil davon ist eine ehemalige Ziegelei, die schon im 16. Jahrhundert betrieben wurde.",
+		"Ich lebe und arbeite in Walkersdorf auf einem ehemaligen Bauernhof.",
 		"Walkersdorf gehört zur Gemeinde Wörnitz (Frankenhöhe) und ist ca. 15 km von Rothenburg o.T. entfernt. Wir haben in der Nähe zwei Autobahnanschlüsse zur A6 und A7. Die Bahn- und S-Bahn-Station (Verkehrsverbund Großraum Nürnberg - VGN) ist Dombühl. Zwischen Dombühl und Walkersdorf gibt es eine Busverbindung.",
 		"Paedacon",
 		"Manfred Grund",
 		"Walkersdorf 8",
-		"91637 Wörnitz"
+		"91637 Wörnitz",
+		"Ich bin für Sie da. Schreiben Sie mir einfach eine email."
+	],
+	Rueckmeldungen: [
+		"Rückmeldungen",
+		"„Die Berufsfindung war eine schöne Erfahrung. Auch heute noch, wenn mich mal Zweifel überkommen schaue ich gern in die Notizen rein. Dann fällt es mir leichter zu mir zurück zu finden und in dem Abenteuer Leben meinen eigenen Weg zu gehen. Ich drücke dir die Daumen dass noch viele Menschen zu dir finden, damit du ihnen helfen kannst!“",
+		"Nora T., München",
+		"„Die Berufsfindung war eine schöne Erfahrung. Auch heute noch, wenn mich mal Zweifel überkommen schaue ich gern in die Notizen rein. Dann fällt es mir leichter zu mir zurück zu finden und in dem Abenteuer Leben meinen eigenen Weg zu gehen. Ich drücke dir die Daumen dass noch viele Menschen zu dir finden, damit du ihnen helfen kannst!“",
+		"Nora T., München",
+		"„Die Berufsfindung war eine schöne Erfahrung. Auch heute noch, wenn mich mal Zweifel überkommen schaue ich gern in die Notizen rein. Dann fällt es mir leichter zu mir zurück zu finden und in dem Abenteuer Leben meinen eigenen Weg zu gehen. Ich drücke dir die Daumen dass noch viele Menschen zu dir finden, damit du ihnen helfen kannst!“",
+		"Nora T., München",
+	],
+	Impressum: [
+		"Impressum",
+		"Für den Inhalt verantwortlich:",
+		"Manfred Grund",
+		"Walkersdorf 8",
+		"91637 Wörnitz",
+		"Email schreiben",
+		"Fotos: Manfred Grund",
+		"Webdesign: Felix Grund",
+		"StIDNr: XXX"
 	]
 };

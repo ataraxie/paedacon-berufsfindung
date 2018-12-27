@@ -243,6 +243,15 @@ body {
   margin-bottom: 2rem;
 }
 
+#feedback .quote {
+  margin-bottom: 0;
+}
+
+#feedback .name {
+  margin-bottom: 1rem;
+  text-align: right;
+}
+
 #workshops p:nth-last-of-type(3) {
   padding-top: 1rem;
   color: #dc4e38;
@@ -260,8 +269,15 @@ body {
   max-width: 34rem;
 }
 
-#contact .pae-text .pae-content {
-  padding-top: 3rem;
+#contact .email-link {
+  display: inline-block;
+  background: url("../img/email.png");
+  width: 48px;
+  height: 36px;
+}
+
+#contact .email-link:hover {
+  background: url("../img/email_hover.png");
 }
 
 section.pae-section {
@@ -278,7 +294,6 @@ section.pae-section h2 {
 
 section.pae-section a {
   color: #518c39;
-  padding-left: 0.4rem;
 }
 
 section.pae-section a:hover {
@@ -311,16 +326,16 @@ section.pae-section .pae-split-con .pae-image {
   width: 16rem;
 }
 
+section.pae-section .pae-split-con .pae-image img {
+  width: 100%;
+  border: 2px solid #334c29;
+}
+
 section.pae-section .pae-split-con .pae-text {
   max-width: 38rem;
   -ms-flex-item-align: start;
   align-self: start;
   text-align: justify;
-}
-
-section.pae-section img {
-  width: 100%;
-  border: 2px solid #334c29;
 }
 
 section.pae-section p {
