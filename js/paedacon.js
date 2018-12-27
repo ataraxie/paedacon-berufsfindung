@@ -4,7 +4,7 @@ window.PAE = {
 		"Hintergrund",
 		"Mein Angebot",
 		"Über mich",
-		"Einzelberatung",
+		"Beratung",
 		"Kontakt",
 		"Rückmeldungen",
 		"Impressum"
@@ -26,7 +26,7 @@ window.PAE = {
 	MeinAngebot: [
 		"Mein Angebot",
 		"Ich kann Sie auf diesem Weg unterstützen und beraten, denn der eigene, über das bisherige Leben entwickelte Bezugsrahmen, ist häufig relativ starr und erlaubt nur eine sehr eingeschränkte Sichtweise auf die eigenen Möglichkeiten.",
-		"In einem Einzelberatungsprozess begleite ich Sie, sich in kleinen Schritten dem Ziel anzunähern, Ihre individuell passende Tätigkeit zu finden. Wenn Sie Lust darauf haben, die eigenen beruflichen Wünsche und Träume zu entdecken, dann kann es Ihnen auf diese Weise gelingen, die eigenen Bedürfnisse klarer vor Augen und im Herzen zu haben.",
+		"In einem persönlichen Beratungsprozess begleite ich Sie, sich in kleinen Schritten dem Ziel anzunähern, Ihre individuell passende Tätigkeit zu finden. Wenn Sie Lust darauf haben, die eigenen beruflichen Wünsche und Träume zu entdecken, dann kann es Ihnen auf diese Weise gelingen, die eigenen Bedürfnisse klarer vor Augen und im Herzen zu haben.",
 		"Sehr passend finde ich hierzu ein Zitat von Eric Berne, dem Begründer der Transaktionsanalyse, die mir im Wesentlichen das Rüstzeug für meine Beratungstätigkeit liefert. In einem seiner Standardwerke schreibt er:",
 		"„... Es handelt sich hier um visuelle Bilder von dem, was sie tun würden, wenn sie tun könnten, was sie am liebsten tun möchten. Die Glücklichen finden schließlich den richtigen Zeitpunkt, den richtigen Ort und den richtigen Menschen, so dass sie ihre Träume verwirklichen können, während die übrigen sehnsüchtig außerhalb ihrer eigenen Traummauern umherwandeln müssen.“"
 	],
@@ -34,7 +34,6 @@ window.PAE = {
 		"Über Mich",
 		"Wenn ich auf meine eigene berufliche Laufbahn zurückblicke, so stelle ich fest, dass mein beruflicher Werdegang bunt und anfangs auch keineswegs geradlinig verlief. Das können Sie an der Auflistung meiner beruflichen Ausbildungen und Studien ersehen.",
 		[
-			"(Transaktionsanalytischer Berater)",
 			"Studium von Psychologie, Pädagogik, Sonderpädagogik (Magister Artium)",
 			"Kanuguide (VDKS)",
 			"Dipl.Sozialpädagoge (FH)",
@@ -44,13 +43,13 @@ window.PAE = {
 		],
 		"Inzwischen arbeite ich freiberuflich, nachdem ich 27 Jahre an einer Fachschule für Heilerziehungspflege Psychologie, Heilpädagogik, Pädagogik und Sport unterrichtet sowie die Fachschüler und Fachschülerinnen im Rahmen der praktischen Ausbildung beraten und angeleitet habe."
 	],
-	Einzelberatung: [
-		"Einzelberatung",
-		"Die Dauer einer Einzelberatung vereinbare ich individuell. Eine Sitzung kann 60 Minuten, 90 Minuten, 120 Minuten oder einen halben Tag dauern. Die Häufigkeit ist von den individuellen Gegebenheiten und der persönlichen Zielsetzung abhängig. Manche Teilnehmer möchten nur einen schnellen Eindruck bekommen, in welche Richtung sie sich orientieren möchten, andere befassen sich so lange mit dem Thema, bis der konkrete Berufswunsch feststeht und auch Umsetzungsmöglichkeiten erörtert wurden.",
+	Beratung: [
+		"Beratung",
+		"Die Dauer einer Beratung vereinbare ich individuell. Eine Sitzung kann 60 Minuten, 90 Minuten, 120 Minuten oder einen halben Tag dauern. Die Häufigkeit ist von den individuellen Gegebenheiten und der persönlichen Zielsetzung abhängig. Manche Teilnehmer möchten nur einen schnellen Eindruck bekommen, in welche Richtung sie sich orientieren möchten, andere befassen sich so lange mit dem Thema, bis der konkrete Berufswunsch feststeht und auch Umsetzungsmöglichkeiten erörtert wurden.",
 		"Häufig möchten Teilnehmer auch weitere persönliche Themen ansprechen, wofür ich ein offenes Ohr habe, was jedoch zusätzlich Zeit in Anspruch nimmt.",
 		"Bei einem ersten Treffen werden wir das individuell sinnvolle Vorgehen besprechen.",
-		"Einzelberatung über Skype ist möglich und bei großen Entfernungen auch sinnvoll.",
-		"Die Kosten für eine Einzelstunde orientieren sich an Stundenlöhnen von selbstständigen Handwerksmeistern. Genaue Informationen erhalten Sie auf Anfrage.",
+		"Beratung über Skype ist möglich und bei großen Entfernungen auch sinnvoll.",
+		"Die Kosten für eine Beratungsstunde orientieren sich an Stundenlöhnen von selbstständigen Handwerksmeistern. Genaue Informationen erhalten Sie auf Anfrage.",
 	],
 	Kontakt: [
 		"Kontakt",

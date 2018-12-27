@@ -69,7 +69,11 @@ body {
 }
 
 section.pae-section {
-  max-width: 65rem;
+  width: 100%;
+
+  .my-auto {
+    max-width: 65rem;
+  }
 
   h1 {
     margin-bottom: 1rem !important;
