@@ -14,18 +14,18 @@ window.PAE = {
 		"Herzlich willkommen!",
 		"Mein Name ist Manfred Grund.",
 		"Ich berate bei der Berufsfindung.",
-		"Gehören Sie auch dazu? Zu den zahlreichen Menschen, die sich unsicher sind, welchen Beruf sie wählen möchten? Vielleicht auch zu jenen, die sich bei ihrer derzeitigen beruflichen Tätigkeit oder im Studium nicht wohl fühlen? Sie würden am liebsten etwas ganz anderes machen, wissen aber nicht was? Ich kann Sie beruhigen, Sie sind nicht alleine."
+		"Gehören auch Sie zu den zahlreichen Menschen, die sich unsicher sind, welchen Beruf sie wählen möchten? Vielleicht auch zu jenen, die sich bei ihrer derzeitigen beruflichen Tätigkeit oder im Studium nicht wohl fühlen? Sie würden am liebsten etwas ganz anderes machen, wissen aber nicht was? Ich kann Sie beruhigen, Sie sind nicht alleine."
 	],
 	Hintergrund: [
 		"Hintergrund",
 		"Viele Menschen wissen einfach nicht, welchen Beruf sie anstreben und zielstrebig verwirklichen möchten. Manche orientieren sich deshalb an Berufsaussichten oder dem Gehalt, andere folgen Ratschlägen von Eltern oder Freunden. Manchmal spielen Beziehungen eine große Rolle oder vorgegebene Strukturen in der Familie. Selbst wenn vermeintlich die eigene Neigung der ausschlaggebende Faktor bei der Berufswahl war, stellt sich im Nachhinein nicht selten heraus, dass es sich hierbei um ein Missverständnis handelte und sich deshalb zunehmend Unzufriedenheit einstellt.",
-		"Doch jeder Mensch hat bestimmte Anlagen und Begabungen und ist in der Lage bestimmte Aufgaben mit Freude besser zu erfüllen als andere. Um diese Anlagen und Begabungen zu entdecken, ist es notwendig, ein „Gefühl“ für die eigenen Wünsche zu haben. Es geht also nicht nur um das Aneignen von Wissen und um Fragebögen, auf denen eigene Stärken und Schwächen anzukreuzen sind, sondern darum, eigene berufsbezogene Bedürfnisse zu „spüren“ und sich Gedanken zu machen, wie diese am besten zu verwirklichen sind.",
+		"Doch jeder Mensch hat bestimmte Anlagen und Begabungen und ist in der Lage bestimmte Aufgaben mit Freude besser zu erfüllen als andere. Um diese Anlagen und Begabungen zu entdecken, ist es notwendig, ein „Gefühl“ für die eigenen Wünsche zu haben. Es geht also nicht nur um das Aneignen von Wissen und um Fragebögen, auf denen eigene Stärken und Schwächen anzukreuzen sind. Vielmehr geht es darum, eigene berufsbezogene Bedürfnisse zu „spüren“ und sich Gedanken zu machen, wie diese am besten zu verwirklichen sind.",
 		"Möchten Sie mit Freude und Leidenschaft Ihren ganz persönlichen Wünschen, Visionen und Träumen auf die Spur kommen?"
 	],
 	MeinAngebot: [
 		"Mein Angebot",
 		"Ich kann Sie auf diesem Weg unterstützen und beraten, denn der eigene, über das bisherige Leben entwickelte Bezugsrahmen, ist häufig relativ starr und erlaubt nur eine sehr eingeschränkte Sichtweise auf die eigenen Möglichkeiten.",
-		"In Einzelberatung oder Workshops begleite ich Sie, sich in kleinen Schritten dem Ziel anzunähern, Ihre individuell passende Tätigkeit zu finden. Wenn Sie Lust darauf haben, die eigenen beruflichen Wünsche und Träume zu entdecken, dann kann es Ihnen auf diese Weise gelingen, die eigenen Bedürfnisse klarer vor Augen und im Herzen zu haben.",
+		"In einem Einzelberatungsprozess begleite ich Sie, sich in kleinen Schritten dem Ziel anzunähern, Ihre individuell passende Tätigkeit zu finden. Wenn Sie Lust darauf haben, die eigenen beruflichen Wünsche und Träume zu entdecken, dann kann es Ihnen auf diese Weise gelingen, die eigenen Bedürfnisse klarer vor Augen und im Herzen zu haben.",
 		"Sehr passend finde ich hierzu ein Zitat von Eric Berne, dem Begründer der Transaktionsanalyse, die mir im Wesentlichen das Rüstzeug für meine Beratungstätigkeit liefert. In einem seiner Standardwerke schreibt er:",
 		"„... Es handelt sich hier um visuelle Bilder von dem, was sie tun würden, wenn sie tun könnten, was sie am liebsten tun möchten. Die Glücklichen finden schließlich den richtigen Zeitpunkt, den richtigen Ort und den richtigen Menschen, so dass sie ihre Träume verwirklichen können, während die übrigen sehnsüchtig außerhalb ihrer eigenen Traummauern umherwandeln müssen.“"
 	],
@@ -34,14 +34,14 @@ window.PAE = {
 		"Wenn ich auf meine eigene berufliche Laufbahn zurückblicke, so stelle ich fest, dass mein beruflicher Werdegang bunt und anfangs auch keineswegs geradlinig verlief. Das können Sie an der Auflistung meiner beruflichen Ausbildungen und Studien ersehen.",
 		[
 			"(Transaktionsanalytischer Berater)",
-			"Magister Artium (M.A.) in den Fächern Sonderpädagogik, Pädagogik, Psychologie",
+			"Studium von Psychologie, Pädagogik, Sonderpädagogik (Magister Artium)",
 			"Kanuguide (VDKS)",
 			"Dipl.Sozialpädagoge (FH)",
 			"Fußballtrainer (A-Lizenz)",
 			"Sport- und Gymnastiklehrer",
 			"Industriekaufmann"
 		],
-		"Inzwischen arbeite ich freiberuflich, nachdem ich 27 Jahre an einer Fachschule für Heilerziehungspflege die Fächer Psychologie, Heilpädagogik, Pädagogik und Sport unterrichtet sowie die Fachschüler und Fachschülerinnen im Rahmen der praktischen Ausbildung beraten und angeleitet habe."
+		"Inzwischen arbeite ich freiberuflich, nachdem ich 27 Jahre an einer Fachschule für Heilerziehungspflege Psychologie, Heilpädagogik, Pädagogik und Sport unterrichtet sowie die Fachschüler und Fachschülerinnen im Rahmen der praktischen Ausbildung beraten und angeleitet habe."
 	],
 	Einzelberatung: [
 		"Einzelberatung",
@@ -53,7 +53,7 @@ window.PAE = {
 	],
 	Workshops: [
 		"Workshops",
-		"Ich biete vier 2-tägige Wochenend-Workshops an, jeweils zwei Workshops für Schulabgänger und 2 Workshops für Berufstätige/Studierende. Die Workshops dauern jeweils am Samstag von 10.00 Uhr bis 18.00 Uhr und am Sonntag von 9.30 Uhr bis 16.00 Uhr.",
+		"Ich biete 2-tägige Wochenend-Workshops für Schulabgänger und für Berufstätige/Studierende an. Die Workshops dauern jeweils am Samstag von 10.00 Uhr bis 18.00 Uhr und am Sonntag von 9.30 Uhr bis 16.00 Uhr.",
 		"Die Teilnehmerzahl pro Workshop ist auf 4 Personen begrenzt, damit ich jeder teilnehmenden Person gerecht werden kann.",
 		"Zusätzliche Workshops unter der Woche biete ich für Personen an, die schon als feststehende Gruppe (2 bis 4 Personen) bei mir anfragen.",
 		"Am Ende eines Workshops wissen die Teilnehmer, in welche Richtung sie sich beruflich entwickeln möchten und haben Anregungen erhalten für ihre individuell passende Tätigkeit.",
