@@ -77,9 +77,9 @@
                 </div>
                 <div class="pae-split2 pae-text">
                     <div class="pae-content padding-left">
-                        <p class="large bold">{{Startseite.[2]}}</p>
-                        <p class="large bold">{{Startseite.[3]}}</p>
-                        <p class="large bold">{{Startseite.[4]}}</p>
+                        <p>{{Startseite.[2]}}</p>
+                        <p>{{Startseite.[3]}}</p>
+                        <p>{{Startseite.[4]}}</p>
                     </div>
                 </div>
             </div>
@@ -211,7 +211,7 @@
             <div class="pae-split-con">
                 <div class="pae-split1 pae-image">
                     <div class="pae-content">
-                        <iframe width="400" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Walkersdorf%208%2C%2091637%20W%C3%B6rnitz%2C%20Germany&key=AIzaSyBwCzQJZH59UATmsx57xTo3ggiClQ_g8cI" allowfullscreen></iframe> </div>
+                        <iframe width="100%" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Walkersdorf%208%2C%2091637%20W%C3%B6rnitz%2C%20Germany&key=AIzaSyBwCzQJZH59UATmsx57xTo3ggiClQ_g8cI" allowfullscreen></iframe> </div>
                     </div>
                 <div class="pae-split2 pae-text">
                     <div class="pae-content">
@@ -265,33 +265,37 @@
         <div class="my-auto">
             <h2 class="mb-3">{{Impressum.[0]}}</h2>
             <div class="pae-full-con">
-                <p>{{Impressum.[1]}}
-                    <br>{{Impressum.[2]}}
-                    <br>{{Impressum.[3]}}
-                    <br>{{Impressum.[4]}}
-                    <br><a href="mailto:paedacon@t-online.de">{{Impressum.[5]}}</a>
+                <p><strong>{{Impressum.[1]}}</strong>
+                    <br>{{Impressum.[2]}} &middot; {{Impressum.[3]}} &middot; {{Impressum.[4]}} &middot; {{Impressum.[5]}}
                 </p>
-                <p>{{Impressum.[6]}}
-                    <br>{{Impressum.[7]}}
-                    <br>{{Impressum.[8]}}
+                <p><strong>{{Impressum.[6]}}</strong>
+                    <br><a href="mailto:paedacon@t-online.de">{{Impressum.[9]}}</a> &middot; {{Impressum.[7]}} &middot; {{Impressum.[8]}}
+                    <br>
                 </p>
-            </div>
-            <div class="pae-full-con">
-                <img src="img/impressum.jpg" />
+                <p><strong>{{Impressum.[12]}}</strong>
+                    <br>{{Impressum.[13]}}
+                </p>
+                <p><strong>{{Impressum.[14]}}</strong>
+                    <br>{{Impressum.[15]}}
+                </p>
+                <p><strong>{{Impressum.[10]}}</strong>
+                    <br>{{Impressum.[11]}}
+                </p>
             </div>
         </div>
     </section>
+
 </div>
 
 
 </script>
 
 <script>
-    (function() {
-	    var source   = document.getElementById('main-template').innerHTML;
-	    var template = Handlebars.compile(source);
-	    document.body.innerHTML = template(PAE);
-    }());
+(function() {
+var source   = document.getElementById('main-template').innerHTML;
+var template = Handlebars.compile(source);
+document.body.innerHTML = template(PAE);
+}());
 </script>
 
 <script src="vendor/jquery/jquery.min.js"></script>
