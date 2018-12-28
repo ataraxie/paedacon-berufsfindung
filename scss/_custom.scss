@@ -91,12 +91,13 @@ section.pae-section {
 }
 
 @media (max-width: 699px) {
-  .pae-image {
-    max-height: 250px;
-    overflow: hidden;
+  .pae-image .pae-content {
+      max-height: 250px;
+      overflow: hidden;
   }
+
   #overview {
-    .pae-image {
+    .pae-image .pae-image {
       max-height: 200px;
     }
   }

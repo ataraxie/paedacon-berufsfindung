@@ -256,11 +256,11 @@ section.pae-section .pae-image img {
 }
 
 @media (max-width: 699px) {
-  .pae-image {
+  .pae-image .pae-content {
     max-height: 250px;
     overflow: hidden;
   }
-  #overview .pae-image {
+  #overview .pae-image .pae-image {
     max-height: 200px;
   }
   #background img {
