@@ -2,16 +2,6 @@ body {
   color: #4e4e4e;
 }
 
-.pae-section {
-  &#overview { background: #fffce2; }
-  &#background { background: #fffce2; }
-  &#offer { background: #fffce2; }
-  &#about { background: #fffce2; }
-  &#councelling { background: #fffce2; }
-  &#workshops { background: #fffce2; }
-  &#contacts { background: #fffce2; }
-}
-
 #overview {
   .pae-image {
     width: 25rem;
@@ -70,6 +60,7 @@ body {
 
 section.pae-section {
   width: 100%;
+  background: #fffce2;
 
   .my-auto {
     max-width: 65rem;

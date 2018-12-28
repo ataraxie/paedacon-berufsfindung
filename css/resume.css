@@ -194,34 +194,6 @@ body {
   color: #4e4e4e;
 }
 
-.pae-section#overview {
-  background: #fffce2;
-}
-
-.pae-section#background {
-  background: #fffce2;
-}
-
-.pae-section#offer {
-  background: #fffce2;
-}
-
-.pae-section#about {
-  background: #fffce2;
-}
-
-.pae-section#councelling {
-  background: #fffce2;
-}
-
-.pae-section#workshops {
-  background: #fffce2;
-}
-
-.pae-section#contacts {
-  background: #fffce2;
-}
-
 #overview .pae-image {
   width: 25rem;
 }
@@ -281,6 +253,7 @@ body {
 
 section.pae-section {
   width: 100%;
+  background: #fffce2;
 }
 
 section.pae-section .my-auto {
