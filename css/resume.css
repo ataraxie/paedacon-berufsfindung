@@ -209,10 +209,11 @@ body {
 }
 
 section.pae-section {
-  padding-top: 3rem !important;
-  padding-bottom: 3rem !important;
+  padding-top: 5rem !important;
+  padding-bottom: 5rem !important;
   width: 100%;
   background: #fffce2;
+  min-height: 100vh;
 }
 
 section.pae-section .my-auto {
@@ -244,7 +245,10 @@ section.pae-section p {
 section.pae-section .pae-text {
   -ms-flex-item-align: start;
   align-self: start;
-  text-align: justify;
+}
+
+section.pae-section .pae-image {
+  margin-bottom: 0.5rem;
 }
 
 section.pae-section .pae-image .pae-content {
@@ -276,8 +280,8 @@ section.pae-section .pae-image img {
     transform: translateY(-11%);
   }
   #councelling img {
-    -webkit-transform: translateY(-53%);
-    transform: translateY(-53%);
+    -webkit-transform: translateY(-45%);
+    transform: translateY(-45%);
   }
   #feedback img {
     -webkit-transform: translateY(-48%);
@@ -289,23 +293,35 @@ section.pae-section .pae-image img {
   #overview h1 {
     font-size: 5rem;
   }
+  #overview .pae-image {
+    width: 40%;
+  }
+  #overview .pae-text {
+    padding: 0;
+    width: 58%;
+  }
   #overview .pae-text p {
     text-align: left;
     font-size: 1.4rem;
   }
+  #overview .pae-text p:nth-of-type(2) {
+    margin-bottom: 0;
+  }
+  #overview .pae-text p:last-of-type {
+    margin-bottom: 2rem;
+  }
   #overview .pae-text .pae-content {
-    padding-top: 2rem;
+    padding-top: 4rem;
   }
   #contact .pae-image {
-    width: 45%;
+    width: 35%;
   }
   #contact .pae-text {
-    width: 50%;
+    width: 60%;
   }
   .pae-section {
-    padding-top: 5rem !important;
-    padding-bottom: 5rem !important;
-    min-height: 100vh;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
   }
   .pae-split-con {
     overflow: auto;
@@ -324,24 +340,12 @@ section.pae-section .pae-image img {
     padding: 0 0 0 1rem;
   }
   .pae-split-con .pae-image {
-    width: 35%;
+    width: 25%;
   }
   .pae-split-con .pae-text {
-    width: 60%;
+    width: 70%;
     max-width: 38rem;
-  }
-  .pae-split-con .pae-text p:nth-of-type(2) {
-    margin-bottom: 0;
-  }
-  .pae-split-con .pae-text p:last-of-type {
-    margin-bottom: 2rem;
-  }
-}
-
-@media (min-width: 992px) and (max-width: 1250px) {
-  .pae-section {
-    padding-top: 3rem !important;
-    padding-bottom: 3rem !important;
+    text-align: justify;
   }
 }
 

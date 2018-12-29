@@ -46,10 +46,11 @@ body {
 }
 
 section.pae-section {
-  padding-top: 3rem !important;
-  padding-bottom: 3rem !important;
+  padding-top: 5rem !important;
+  padding-bottom: 5rem !important;
   width: 100%;
   background: #fffce2;
+  min-height: 100vh;
 
   .my-auto {
     max-width: 65rem;
@@ -78,10 +79,10 @@ section.pae-section {
 
   .pae-text {
     align-self: start;
-    text-align: justify;
   }
 
   .pae-image {
+    margin-bottom: 0.5rem;
     .pae-content { border: 2px solid $darkgreen; }
     img {
       width: 100%;
@@ -104,7 +105,7 @@ section.pae-section {
   #background img { transform: translateY(-52%); }
   #offer img { transform: translateY(-13%); }
   #about img { transform: translateY(-11%); }
-  #councelling img { transform: translateY(-53%); }
+  #councelling img { transform: translateY(-45%); }
   #feedback img { transform: translateY(-48%); }
 }
 
@@ -113,29 +114,41 @@ section.pae-section {
     h1 {
       font-size: 5rem;
     }
+    .pae-image {
+      width: 40%;
+    }
     .pae-text {
+      padding: 0;
+      width: 58%;
       p {
         text-align: left;
         font-size: 1.4rem;
+
+        &:nth-of-type(2) {
+          margin-bottom: 0;
+        }
+        &:last-of-type {
+          margin-bottom: 2rem;
+        }
       }
+
       .pae-content {
-        padding-top: 2rem;
+        padding-top: 4rem;
       }
     }
   }
   #contact {
     .pae-image {
-      width: 45%;
+      width: 35%;
     }
     .pae-text {
-      width: 50%;
+      width: 60%;
     }
   }
 
   .pae-section {
-    padding-top: 5rem !important;
-    padding-bottom: 5rem !important;
-    min-height: 100vh;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
   }
 
   .pae-split-con {
@@ -156,18 +169,13 @@ section.pae-section {
     }
 
     .pae-image {
-      width: 35%;
+      width: 25%;
     }
 
     .pae-text {
-      width: 60%;
+      width: 70%;
       max-width: 38rem;
-      p:nth-of-type(2) {
-        margin-bottom: 0;
-      }
-      p:last-of-type {
-        margin-bottom: 2rem;
-      }
+      text-align: justify;
     }
 
 
@@ -177,8 +185,8 @@ section.pae-section {
 
 @media (min-width: 992px) and (max-width: 1250px) {
   .pae-section {
-    padding-top: 3rem !important;
-    padding-bottom: 3rem !important;
+    //padding-top: 3rem !important;
+    //padding-bottom: 3rem !important;
   }
 }
 
