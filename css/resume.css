@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Resume v5.0.2 (https://startbootstrap.com/template-overviews/resume)
- * Copyright 2013-2018 Start Bootstrap
+ * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 
@@ -206,6 +206,10 @@ body {
 
 #contact .email-link:hover {
   background: url("../img/email_hover.png");
+}
+
+.navbar .nav-item:nth-last-child(-n+2) a {
+  font-size: 0.9rem;
 }
 
 section.pae-section {

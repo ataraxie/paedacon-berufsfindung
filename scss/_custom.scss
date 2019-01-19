@@ -45,6 +45,12 @@ body {
   }
 }
 
+.navbar {
+  .nav-item:nth-last-child(-n+2) a {
+    font-size: 0.9rem;
+  }
+}
+
 section.pae-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
