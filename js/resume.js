@@ -56,5 +56,9 @@
 		target: '#sideNav'
 	});
 
+	$(document).ready(function() {
+		$('.pae-section').css('background', PAE.Hintergrundfarbe);
+	});
+
 
 })(jQuery); // End of use strict
