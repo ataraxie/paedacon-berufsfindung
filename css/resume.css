@@ -246,6 +246,10 @@ section.pae-section p {
   margin-bottom: 0.5rem;
 }
 
+section.pae-section hr {
+  border-top-width: 2px;
+}
+
 section.pae-section .pae-text {
   -ms-flex-item-align: start;
   align-self: start;
@@ -353,7 +357,30 @@ section.pae-section .pae-image img {
   }
 }
 
+@media (min-width: 992px) and (max-width: 1250px) {
+  .navbar .nav-item:last-child {
+    position: absolute;
+    bottom: 0;
+    right: 1rem;
+  }
+  .navbar .nav-item:nth-last-child(2) {
+    position: absolute;
+    bottom: 0;
+    left: 1rem;
+  }
+}
+
 @media (min-width: 1250px) {
+  .navbar .nav-item:last-child {
+    position: absolute;
+    bottom: 0;
+    right: 1rem;
+  }
+  .navbar .nav-item:nth-last-child(2) {
+    position: absolute;
+    bottom: 0;
+    left: 1rem;
+  }
   #overview .pae-text p {
     font-size: 1.8rem;
   }

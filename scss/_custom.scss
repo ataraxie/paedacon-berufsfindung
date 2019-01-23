@@ -80,7 +80,10 @@ section.pae-section {
   p {
     font-size: 1rem;
     margin-bottom: 0.5rem;
+  }
 
+  hr {
+    border-top-width: 2px;
   }
 
   .pae-text {
@@ -190,6 +193,18 @@ section.pae-section {
 }
 
 @media (min-width: 992px) and (max-width: 1250px) {
+  .navbar .nav-item { // FIXME: duplicate!
+    &:last-child {
+      position: absolute;
+      bottom: 0;
+      right: 1rem;
+    }
+    &:nth-last-child(2) {
+      position: absolute;
+      bottom: 0;
+      left: 1rem;
+    }
+  }
   .pae-section {
     //padding-top: 3rem !important;
     //padding-bottom: 3rem !important;
@@ -198,6 +213,18 @@ section.pae-section {
 
 
 @media (min-width: 1250px) {
+  .navbar .nav-item { // FIXME: duplicate!
+    &:last-child {
+      position: absolute;
+      bottom: 0;
+      right: 1rem;
+    }
+    &:nth-last-child(2) {
+      position: absolute;
+      bottom: 0;
+      left: 1rem;
+    }
+  }
   #overview {
     .pae-text {
       p {
