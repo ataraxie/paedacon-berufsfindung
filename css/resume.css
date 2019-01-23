@@ -169,6 +169,10 @@ body {
   color: #4e4e4e;
 }
 
+body hr {
+  border-top-width: 4px;
+}
+
 #overview h1 {
   font-size: 4rem;
   line-height: 4.5rem;
@@ -209,7 +213,7 @@ body {
 }
 
 .navbar .nav-item:nth-last-child(-n+2) a {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 
 section.pae-section {
@@ -244,10 +248,6 @@ section.pae-section a:hover {
 section.pae-section p {
   font-size: 1rem;
   margin-bottom: 0.5rem;
-}
-
-section.pae-section hr {
-  border-top-width: 2px;
 }
 
 section.pae-section .pae-text {
