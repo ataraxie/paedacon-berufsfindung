@@ -184,6 +184,10 @@ body hr {
   text-align: center;
 }
 
+#overview .pae-text p:first-child {
+  margin-bottom: 1.2rem;
+}
+
 #overview .pae-text .pae-content {
   padding: 1rem;
 }
