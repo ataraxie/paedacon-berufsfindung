@@ -5,7 +5,6 @@ window.PAE = {
 		"Mein Angebot",
 		"Über mich",
 		"Beratung",
-		"Workshops",
 		"Kontakt",
 		"Rückmeldungen",
 		"Impressum"
@@ -51,30 +50,6 @@ window.PAE = {
 		"Bei einem ersten Treffen werden wir das individuell sinnvolle Vorgehen besprechen.",
 		"Beratung über Skype ist möglich und bei großen Entfernungen auch sinnvoll.",
 		"Die Kosten für eine Beratungsstunde orientieren sich an Stundenlöhnen von selbstständigen Handwerksmeistern. Genaue Informationen erhalten Sie auf Anfrage.",
-	],
-	Workshops: [
-		"Workshops",
-		"Allgemeiner Text zu den Workshops.",
-		"Workshop 1: Berufsfindung für Berufstätige und Studenten",
-		[
-			"Termin:",
-			".......  mit Uhrzeit von bis ...",
-			"Inhalt:"
-		],
-		"Workshop 2 + 3: Berufsfindung zum Berufsanfang ",
-		[
-			"Termin 1:",
-			"Termin 2:",
-			"...... mit Uhrzeit von bis ...",
-			"Inhalt:"
-		],
-		"Workshop 4: Selbsterfahrung",
-		[
-			"Termin:",
-			"Termin 2:",
-			"...... mit Uhrzeit von bis ...",
-			"Inhalt:"
-		],
 	],
 	Kontakt: [
 		"Kontakt",
