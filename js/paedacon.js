@@ -1,4 +1,5 @@
 window.PAE = {
+	Hintergrundfarbe: "#FFFDEF",
 	Navigation: [
 		"Startseite",
 		"Hintergrund",
@@ -16,38 +17,39 @@ window.PAE = {
 		"Herzlich willkommen!",
 		"Mein Name ist Manfred Grund.",
 		"Ich berate bei der Berufsfindung.",
-		"Gehören auch Sie zu den zahlreichen Menschen, die sich unsicher sind, welchen Beruf sie wählen möchten? Vielleicht auch zu jenen, die sich bei ihrer derzeitigen beruflichen Tätigkeit oder im Studium nicht wohl fühlen? Sie würden am liebsten etwas ganz anderes machen, wissen aber nicht was? Ich kann Sie beruhigen, Sie sind nicht alleine."
+		"Gehören auch Sie zu den zahlreichen Menschen, die sich bei ihrer derzeitigen beruflichen Tätigkeit oder im Studium nicht wohl fühlen? Sie würden am liebsten etwas ganz anderes machen, wissen aber nicht was? Vielleicht auch zu jenen, die sich nach dem Schulabschluss unsicher sind, welchen Beruf sie wählen möchten? Ich kann Sie beruhigen, Sie sind nicht alleine."
 	],
 	Hintergrund: [
 		"Hintergrund",
 		"Viele Menschen wissen einfach nicht, welchen Beruf sie anstreben und zielstrebig verwirklichen möchten. Manche orientieren sich deshalb an Berufsaussichten oder dem Gehalt, andere folgen Ratschlägen von Eltern oder Freunden. Manchmal spielen Beziehungen eine große Rolle oder vorgegebene Strukturen in der Familie. Selbst wenn vermeintlich die eigene Neigung der ausschlaggebende Faktor bei der Berufswahl war, stellt sich im Nachhinein nicht selten heraus, dass es sich hierbei um ein Missverständnis handelte und sich deshalb zunehmend Unzufriedenheit einstellt.",
-		"Doch jeder Mensch hat bestimmte Anlagen und Begabungen und ist in der Lage bestimmte Aufgaben mit Freude besser zu erfüllen als andere. Um diese Anlagen und Begabungen zu entdecken, ist es notwendig, ein „Gefühl“ für die eigenen Wünsche zu haben. Es geht also nicht nur um das Aneignen von Wissen und um Fragebögen, auf denen eigene Stärken und Schwächen anzukreuzen sind. Vielmehr geht es darum, eigene berufsbezogene Bedürfnisse zu „spüren“ und sich Gedanken zu machen, wie diese am besten zu verwirklichen sind.",
-		"Möchten Sie mit Freude und Leidenschaft Ihren ganz persönlichen Wünschen, Visionen und Träumen auf die Spur kommen?"
+		"Doch jeder Mensch hat bestimmte Anlagen und Begabungen und ist in der Lage entsprechende Aufgaben mit Freude besser zu erfüllen als andere. Um diese Anlagen und Begabungen zu entdecken, ist es notwendig, sich selbst besser kennenzulernen und ein „Gefühl“ für die eigenen Wünsche zu haben.",
+		"Möchten Sie mit Freude und Leidenschaft Ihren ganz persönlichen Wünschen, Visionen und Träumen auf die Spur kommen? Es ist nie zu spät dafür!"
 	],
 	MeinAngebot: [
 		"Mein Angebot",
-		"Ich kann Sie auf diesem Weg unterstützen und beraten, denn der eigene, über das bisherige Leben entwickelte Bezugsrahmen, ist häufig relativ starr und erlaubt nur eine sehr eingeschränkte Sichtweise auf die eigenen Möglichkeiten.",
-		"In einem persönlichen Beratungsprozess begleite ich Sie, sich in kleinen Schritten dem Ziel anzunähern, Ihre individuell passende Tätigkeit zu finden. Wenn Sie Lust darauf haben, die eigenen beruflichen Wünsche und Träume zu entdecken, dann kann es Ihnen auf diese Weise gelingen, die eigenen Bedürfnisse klarer vor Augen und im Herzen zu haben.",
-		"Sehr passend finde ich hierzu ein Zitat von Eric Berne, dem Begründer der Transaktionsanalyse, die mir im Wesentlichen das Rüstzeug für meine Beratungstätigkeit liefert. In einem seiner Standardwerke schreibt er:",
-		"„... Es handelt sich hier um visuelle Bilder von dem, was sie tun würden, wenn sie tun könnten, was sie am liebsten tun möchten. Die Glücklichen finden schließlich den richtigen Zeitpunkt, den richtigen Ort und den richtigen Menschen, so dass sie ihre Träume verwirklichen können, während die übrigen sehnsüchtig außerhalb ihrer eigenen Traummauern umherwandeln müssen.“"
+		"Ich kann Sie auf diesem Weg unterstützen und beraten.",
+		"In einem persönlichen Beratungsprozess begleite ich Sie dabei sich in kleinen Schritten dem Ziel anzunähern, Ihre individuell passende Tätigkeit zu finden. Wenn Sie Lust darauf haben die eigenen Wünsche und Träume zu entdecken, dann kann es Ihnen auf diese Weise gelingen, den eigenen Weg klarer vor Augen und im Herzen zu haben.",
+		"Sehr passend finde ich hierzu ein Zitat von Eric Berne, dem Begründer der Transaktionsanalyse, der in einem seiner Standardwerke schreibt:",
+		"„... Es handelt sich hier um visuelle Bilder von dem, was sie tun würden, wenn sie tun könnten, was sie am liebsten tun möchten. Die Glücklichen finden schließlich den richtigen Zeitpunkt, den richtigen Ort und den richtigen Menschen, so dass sie ihre Träume verwirklichen können...“"
 	],
 	UeberMich: [
 		"Über Mich",
-		"Wenn ich auf meine eigene berufliche Laufbahn zurückblicke, so stelle ich fest, dass mein beruflicher Werdegang bunt und anfangs auch keineswegs geradlinig verlief. Das können Sie an der Auflistung meiner beruflichen Ausbildungen und Studien ersehen.",
+		"Wenn ich auf meine eigene berufliche Laufbahn zurückblicke, wird deutlich, dass mein beruflicher Werdegang bunt und anfangs auch keineswegs geradlinig verlief. Das können Sie an der Auflistung meiner beruflichen Ausbildungen und Studien ersehen.",
 		[
-			"Studium von Psychologie, Pädagogik, Sonderpädagogik (Magister Artium)",
-			"Kanuguide (VDKS)",
-			"Dipl.Sozialpädagoge (FH)",
-			"Fußballtrainer (A-Lizenz)",
+			"Industriekaufmann",
 			"Sport- und Gymnastiklehrer",
-			"Industriekaufmann"
+			"Fußballtrainer (A-Lizenz)",
+			"Dipl.Sozialpädagoge (FH)",
+			"Kanuguide (VDKS)",
+			"Studium von Psychologie, Pädagogik, Sonderpädagogik (Magister Artium)",
+			"Langjährige Weiterbildung in Transaktionsanalyse"
 		],
-		"Inzwischen arbeite ich freiberuflich, nachdem ich 27 Jahre an einer Fachschule für Heilerziehungspflege Psychologie, Heilpädagogik, Pädagogik und Sport unterrichtet sowie die Fachschüler und Fachschülerinnen im Rahmen der praktischen Ausbildung beraten und angeleitet habe."
+		"Inzwischen arbeite ich freiberuflich, nachdem ich 27 Jahre in der beruflichen Bildung mit den Schwerpunkten Psychologie, Pädagogik und Heilpädagogik tätig war."
 	],
 	Beratung: [
 		"Beratung",
-		"Die Dauer einer Beratung vereinbare ich individuell. Eine Sitzung kann 60 Minuten, 90 Minuten, 120 Minuten oder einen halben Tag dauern. Die Häufigkeit ist von den individuellen Gegebenheiten und der persönlichen Zielsetzung abhängig. Manche Teilnehmer möchten nur einen schnellen Eindruck bekommen, in welche Richtung sie sich orientieren möchten, andere befassen sich so lange mit dem Thema, bis der konkrete Berufswunsch feststeht und auch Umsetzungsmöglichkeiten erörtert wurden.",
-		"Häufig möchten Teilnehmer auch weitere persönliche Themen ansprechen, wofür ich ein offenes Ohr habe, was jedoch zusätzlich Zeit in Anspruch nimmt.",
+		"Die Dauer einer Beratung vereinbare ich individuell. Eine Sitzung kann 60 Minuten, 90 Minuten, 120 Minuten oder einen halben Tag dauern. Die Häufigkeit ist von den individuellen Gegebenheiten und der persönlichen Zielsetzung abhängig. Manche Teilnehmer möchten nur einen schnellen Eindruck bekommen, welche Richtung für sie passt, andere befassen sich so lange mit dem Thema, bis der konkrete Berufswunsch feststeht und auch Umsetzungsmöglichkeiten erörtert wurden.",
+		"Häufig möchten Teilnehmer auch weitere persönliche Themen ansprechen und wünschen sich hierfür eine Beratung. Dies ist grundsätzlich möglich.",
 		"Bei einem ersten Treffen werden wir das individuell sinnvolle Vorgehen besprechen.",
 		"Beratung über Skype ist möglich und bei großen Entfernungen auch sinnvoll.",
 		"Die Kosten für eine Beratungsstunde orientieren sich an Stundenlöhnen von selbstständigen Handwerksmeistern. Genaue Informationen erhalten Sie auf Anfrage.",
@@ -84,16 +86,16 @@ window.PAE = {
 		"Manfred Grund",
 		"Walkersdorf 8",
 		"91637 Wörnitz",
-		"Ich bin für Sie da. Schreiben Sie mir einfach eine email."
+		"Schreiben Sie mir einfach eine Email."
 	],
 	Rueckmeldungen: [
 		"Rückmeldungen",
-		"„Die Berufsfindung war eine schöne Erfahrung. Auch heute noch, wenn mich mal Zweifel überkommen schaue ich gern in die Notizen rein. Dann fällt es mir leichter zu mir zurück zu finden und in dem Abenteuer Leben meinen eigenen Weg zu gehen. Ich drücke dir die Daumen dass noch viele Menschen zu dir finden, damit du ihnen helfen kannst!“",
-		"Nora T., München",
-		"„Die Berufsfindung war eine schöne Erfahrung. Auch heute noch, wenn mich mal Zweifel überkommen schaue ich gern in die Notizen rein. Dann fällt es mir leichter zu mir zurück zu finden und in dem Abenteuer Leben meinen eigenen Weg zu gehen. Ich drücke dir die Daumen dass noch viele Menschen zu dir finden, damit du ihnen helfen kannst!“",
-		"Nora T., München",
-		"„Die Berufsfindung war eine schöne Erfahrung. Auch heute noch, wenn mich mal Zweifel überkommen schaue ich gern in die Notizen rein. Dann fällt es mir leichter zu mir zurück zu finden und in dem Abenteuer Leben meinen eigenen Weg zu gehen. Ich drücke dir die Daumen dass noch viele Menschen zu dir finden, damit du ihnen helfen kannst!“",
-		"Nora T., München",
+		"Die Berufsfindung war eine schöne Erfahrung. Auch heute noch, wenn mich mal Zweifel überkommen, schaue ich gern in die Notizen rein. Dann fällt es mir leichter zu mir zurück zu finden und in dem Abenteuer Leben meinen eigenen Weg zu gehen. Ich drücke Dir die Daumen, dass noch viele Menschen zu Dir finden, damit du ihnen helfen kannst!",
+		"Nora S., München",
+		"Als ich merkte, dass mir mein Beruf nicht mehr so viel Spaß bereitete, bin ich auf Manfred zugegangen, um mir von ihm Rat für eine neue berufliche Orientierung zu holen. Ich vertraute seiner pädagogischen Erfahrung und gemeinsam haben wir in einer lockeren Atmosphäre nach möglichen Lösungen gesucht, wie ich wieder zufrieden mit meiner beruflichen Rolle werden kann. Die Beratung hat mir Selbstvertrauen gegeben einen neuen Schritt zu wagen, den ich bis heute nicht bereut habe.",
+		"Matthias S., Rothenburg o.T.",
+		"Manfred hat mich beraten, als ich an einem Punkt angekommen war, an dem es in meinem alten Beruf nicht mehr weitergehen konnte. Er hat mit mir verschiedene Lebensbereiche ausgeleuchtet, meine Fähigkeiten, aber auch meine Wunschträume mit mir erörtert und ich habe meinen Vorstellungen, Zielen und persönlichen Werten nachgespürt. Von unterschiedlichsten Seiten und aus ungewohnten Perspektiven sind wir behutsam an das große Thema berufliche Veränderung herangegangen. Mit jedem Termin wurde mir klarer, in welche Richtung es gehen kann. Heute bin ich angekommen in meinem Beruf und den großen Schritt habe ich noch keinen Augenblick bedauert.",
+		"Eva Maria W., Nürnberg",
 	],
 	Impressum: [
 		"Impressum",
