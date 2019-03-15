@@ -61,21 +61,27 @@ window.PAE = {
 		[
 			"Termin:",
 			".......  mit Uhrzeit von bis ...",
-			"Inhalt:"
+			"Inhalt:",
+			"Teilnehmerzahl:",
+			"Teilnahmegebühr:"
 		],
 		"Workshop 2 + 3: Berufsfindung zum Berufsanfang ",
 		[
 			"Termin 1:",
 			"Termin 2:",
 			"...... mit Uhrzeit von bis ...",
-			"Inhalt:"
+			"Inhalt:",
+			"Teilnehmerzahl:",
+			"Teilnahmegebühr:"
 		],
 		"Workshop 4: Selbsterfahrung",
 		[
 			"Termin:",
 			"Termin 2:",
 			"...... mit Uhrzeit von bis ...",
-			"Inhalt:"
+			"Inhalt:",
+			"Teilnehmerzahl:",
+			"Teilnahmegebühr:"
 		],
 	],
 	Kontakt: [
