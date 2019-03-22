@@ -8,27 +8,25 @@ body {
 
 #overview {
   .heading {
+    overflow: auto;
 
     > div {
-      display: inline-block;
+      display: block;
+      float: left;
+      height: 5rem;
 
       &.heading-name {
         font-size: 5rem;
-        padding: 13px 15px 0 0;
+        padding-right: 10px;
         letter-spacing: 1px;
         vertical-align: 25px;
       }
 
-      &.heading-type-container {
-        div {
-          color: #334c29;
-          font-size: 4rem;
-          line-height: 4rem;
-
-          &:first-child {
-            border-bottom: 2px solid #334c29;
-          }
-        }
+      .heading-type {
+        color: #334c29;
+        font-size: 4rem;
+        line-height: 4rem;
+        display: inline-block;
       }
     }
 
