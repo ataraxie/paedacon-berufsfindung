@@ -173,9 +173,25 @@ body hr {
   border-top-width: 4px;
 }
 
-#overview h1 {
+#overview .heading > div {
+  display: inline-block;
+}
+
+#overview .heading > div.heading-name {
+  font-size: 5rem;
+  padding: 13px 15px 0 0;
+  letter-spacing: 1px;
+  vertical-align: 25px;
+}
+
+#overview .heading > div.heading-type-container div {
+  color: #334c29;
   font-size: 4rem;
-  line-height: 4.5rem;
+  line-height: 4rem;
+}
+
+#overview .heading > div.heading-type-container div:first-child {
+  border-bottom: 2px solid #334c29;
 }
 
 #overview .pae-text p {

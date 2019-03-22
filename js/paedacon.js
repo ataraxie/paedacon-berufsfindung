@@ -14,9 +14,10 @@ window.PAE = {
 	Startseite: [
 		"Paedacon",
 		"Berufsfindung",
+		"Selbstfindung",
 		"Herzlich willkommen!",
 		"Mein Name ist Manfred Grund.",
-		"Ich berate bei der Berufsfindung.",
+		"Ich berate bei der Berufsfindung und anderen Lebensfragen.",
 		"Gehören auch Sie zu den zahlreichen Menschen, die sich bei ihrer derzeitigen beruflichen Tätigkeit oder im Studium nicht wohl fühlen? Sie würden am liebsten etwas ganz anderes machen, wissen aber nicht was? Vielleicht auch zu jenen, die sich nach dem Schulabschluss unsicher sind, welchen Beruf sie wählen möchten? Ich kann Sie beruhigen, Sie sind nicht alleine."
 	],
 	Hintergrund: [
