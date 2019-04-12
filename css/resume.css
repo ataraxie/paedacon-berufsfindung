@@ -173,28 +173,17 @@ body hr {
   border-top-width: 4px;
 }
 
-#overview .heading {
-  overflow: auto;
+#overview h1 {
+  font-size: inherit;
+  line-height: inherit;
 }
 
-#overview .heading > div {
-  display: block;
-  float: left;
-  height: 5rem;
+#overview .heading > span {
+  padding-right: 5px;
 }
 
-#overview .heading > div.heading-name {
-  font-size: 5rem;
-  padding-right: 10px;
-  letter-spacing: 1px;
-  vertical-align: 25px;
-}
-
-#overview .heading > div .heading-type {
+#overview .heading-type {
   color: #334c29;
-  font-size: 4rem;
-  line-height: 4rem;
-  display: inline-block;
 }
 
 #overview .pae-text p {
@@ -295,6 +284,16 @@ section.pae-section .pae-image img {
     max-height: 250px;
     overflow: hidden;
   }
+  #overview .heading-name {
+    font-size: 4rem;
+    line-height: 4rem;
+    display: block;
+  }
+  #overview .heading-type {
+    font-size: 3rem;
+    line-height: 3rem;
+    display: inline-block;
+  }
   #overview .pae-image .pae-image {
     max-height: 200px;
   }
@@ -321,8 +320,13 @@ section.pae-section .pae-image img {
 }
 
 @media (min-width: 700px) {
-  #overview h1 {
-    font-size: 5rem;
+  #overview .heading-name {
+    font-size: 4rem;
+    line-height: 4rem;
+  }
+  #overview .heading-type {
+    font-size: 3rem;
+    line-height: 3rem;
   }
   #overview .pae-image {
     width: 40%;
@@ -380,7 +384,24 @@ section.pae-section .pae-image img {
   }
 }
 
+@media (min-width: 992px) and (max-width: 1065px) {
+  #overview .heading .heading-name {
+    font-size: 3.5rem;
+  }
+  #overview .heading .heading-type {
+    font-size: 2.5rem;
+  }
+}
+
 @media (min-width: 992px) and (max-width: 1250px) {
+  #overview .heading-name {
+    font-size: 4rem;
+    line-height: 4rem;
+  }
+  #overview .heading-type {
+    font-size: 3rem;
+    line-height: 3rem;
+  }
   .navbar .nav-item:last-child {
     position: absolute;
     bottom: 0;
@@ -394,6 +415,12 @@ section.pae-section .pae-image img {
 }
 
 @media (min-width: 1250px) {
+  #overview .heading-name {
+    font-size: 5rem;
+  }
+  #overview .heading-type {
+    font-size: 4rem;
+  }
   .navbar .nav-item:last-child {
     position: absolute;
     bottom: 0;
