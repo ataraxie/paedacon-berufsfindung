@@ -51,39 +51,38 @@ window.PAE = {
 	Beratung: [
 		"Beratung",
 		"Die Dauer einer Beratung vereinbare ich individuell. Eine Sitzung kann 60 Minuten, 90 Minuten, 120 Minuten oder einen halben Tag dauern. Die Häufigkeit ist von den individuellen Gegebenheiten und der persönlichen Zielsetzung abhängig. Manche Teilnehmer möchten nur einen schnellen Eindruck bekommen, welche Richtung für sie passt, andere befassen sich so lange mit dem Thema, bis der konkrete Berufswunsch feststeht und auch Umsetzungsmöglichkeiten erörtert wurden.",
-		"Häufig möchten Teilnehmer auch weitere persönliche Themen ansprechen und wünschen sich hierfür eine Beratung. Dies ist grundsätzlich möglich.",
+		"Häufig möchten Teilnehmer auch andere persönliche Themen ansprechen und wünschen sich hierfür eine Beratung. Dies ist grundsätzlich möglich.",
 		"Bei einem ersten Treffen werden wir das individuell sinnvolle Vorgehen besprechen.",
 		"Beratung über Skype ist möglich und bei großen Entfernungen auch sinnvoll.",
 		"Die Kosten für eine Beratungsstunde orientieren sich an Stundenlöhnen von selbstständigen Handwerksmeistern. Genaue Informationen erhalten Sie auf Anfrage.",
 	],
 	Workshops: [
 		"Workshops",
-		"Allgemeiner Text zu den Workshops.",
-		"Workshop 1: Berufsfindung für Berufstätige und Studenten",
+		"Ich biete Workshops für Gruppen an, wobei die Teilnehmerzahl stark begrenzt ist, damit ich jedem Teilnehmer/jeder Teilnehmerin gerecht werden kann.",
+		"Workshop 1: Berufsfindung für Berufstätige und Studierende",
 		[
-			"Termin:",
-			".......  mit Uhrzeit von bis ...",
-			"Inhalt:",
-			"Teilnehmerzahl:",
-			"Teilnahmegebühr:"
+			"Samstag, 07.12.2019,  9.30 Uhr - 13.00 Uhr und 14.30 - 18.00 Uhr",
+			"In dem eintägigen Workshop erarbeiten sich die Teilnehmer/innen Ideen und erfahren, welche berufliche Richtung für sie eine passende Alternative zu ihrer derzeitigen Tätigkeit sein kann.",
+			"Infos und Anmeldung per Email: paedacon@posteo.de",
+			"Max. 6 Personen",
+			"Teilnahmegebühr: 90,00 Euro"
 		],
-		"Workshop 2 + 3: Berufsfindung zum Berufsanfang ",
+		"Workshops 2 + 3: Berufsfindung zum Berufsanfang ",
 		[
-			"Termin 1:",
-			"Termin 2:",
-			"...... mit Uhrzeit von bis ...",
-			"Inhalt:",
-			"Teilnehmerzahl:",
-			"Teilnahmegebühr:"
+			"W2: Samstag, 19.10.2019,  9.30 - 13.00 Uhr und 14.30 - 18.00 Uhr",
+			"W3: Samstag, 09.11.2019,  9.30 - 13.00 Uhr und 14.30 - 18.00 Uhr",
+			"In dem eintägigen Workshop erarbeiten sich die Teilnehmer/innen Ideen und erfahren, welche berufliche Richtung für sie die geeignete ist.",
+			"Infos und Anmeldung per Email: paedacon@posteo.de",
+			"Max. 6 Personen",
+			"Teilnahmegebühr: 90,00 Euro"
 		],
-		"Workshop 4: Selbsterfahrung",
+		"Workshop 4: Selbsterfahrung/Selbstfindung",
 		[
-			"Termin:",
-			"Termin 2:",
-			"...... mit Uhrzeit von bis ...",
-			"Inhalt:",
-			"Teilnehmerzahl:",
-			"Teilnahmegebühr:"
+			"Samstag, 11.01.2020,  9.30 - 13.00 Uhr und 14.30 - 18.00 Uhr",
+			"In diesem eintägigen Workshop werde ich einige grundlegende Konzepte der Transaktionsanalyse vorstellen. Sie ermöglichen uns mehr Verständnis für unser Denken, Fühlen und Handeln. Dabei gibt es die Gelegenheit eigene Erfahrungen zu reflektieren.",
+			"Infos und Anmeldung per Email: paedacon@posteo.de",
+			"Max. 6 Personen",
+			"Teilnahmegebühr: 90,00 Euro"
 		],
 	],
 	Kontakt: [

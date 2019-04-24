@@ -60,6 +60,12 @@ body {
   }
 }
 
+#workshops {
+  p.workshop-title {
+    font-weight: bold;
+  }
+}
+
 .navbar {
   .nav-item:nth-last-child(-n+2) a {
     font-size: 0.8rem;
