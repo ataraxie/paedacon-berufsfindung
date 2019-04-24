@@ -8,8 +8,16 @@ body {
 
 #overview {
   h1 {
-    font-size: 4rem;
-    line-height: 4.5rem;
+    font-size: inherit;
+    line-height: inherit;
+  }
+
+  .heading > span {
+    padding-right: 5px;
+  }
+
+  .heading-type {
+    color: #334c29;
   }
 
   .pae-text {
@@ -49,6 +57,12 @@ body {
     &:hover {
       background: url("../img/email_hover.png");
     }
+  }
+}
+
+#workshops {
+  p.workshop-title {
+    font-weight: bold;
   }
 }
 
@@ -110,6 +124,17 @@ section.pae-section {
   }
 
   #overview {
+    .heading-name {
+      font-size: 4rem;
+      line-height: 4rem;
+      display: block;
+    }
+
+    .heading-type {
+      font-size: 3rem;
+      line-height: 3rem;
+      display: inline-block;
+    }
     .pae-image .pae-image {
       max-height: 200px;
     }
@@ -123,9 +148,9 @@ section.pae-section {
 
 @media (min-width: 700px) {
   #overview {
-    h1 {
-      font-size: 5rem;
-    }
+    .heading-name {font-size: 4rem; line-height: 4rem;}
+    .heading-type {font-size: 3rem; line-height: 3rem;}
+
     .pae-image {
       width: 40%;
     }
@@ -195,7 +220,19 @@ section.pae-section {
 
 }
 
+@media (min-width: 992px) and (max-width: 1065px) {
+  #overview .heading {
+    .heading-name {font-size: 3.5rem;}
+    .heading-type {font-size: 2.5rem;}
+  }
+}
+
 @media (min-width: 992px) and (max-width: 1250px) {
+  #overview {
+    .heading-name {font-size: 4rem; line-height: 4rem;}
+    .heading-type {font-size: 3rem; line-height: 3rem;}
+  }
+
   .navbar .nav-item { // FIXME: duplicate!
     &:last-child {
       position: absolute;
@@ -216,6 +253,10 @@ section.pae-section {
 
 
 @media (min-width: 1250px) {
+  #overview {
+    .heading-name {font-size: 5rem;}
+    .heading-type {font-size: 4rem;}
+  }
   .navbar .nav-item { // FIXME: duplicate!
     &:last-child {
       position: absolute;
