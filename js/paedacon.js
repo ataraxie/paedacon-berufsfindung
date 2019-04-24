@@ -6,6 +6,7 @@ window.PAE = {
 		"Mein Angebot",
 		"Über mich",
 		"Beratung",
+		"Workshops",
 		"Kontakt",
 		"Rückmeldungen",
 		"Impressum"
