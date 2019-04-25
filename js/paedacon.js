@@ -74,15 +74,7 @@ window.PAE = {
 			"Infos und Anmeldung per Email: paedacon@posteo.de",
 			"Max. 6 Personen",
 			"Teilnahmegebühr: 90,00 Euro"
-		],
-		"Workshop 4: Selbsterfahrung/Selbstfindung",
-		[
-			"Samstag, 11.01.2020,  9.30 - 13.00 Uhr und 14.30 - 18.00 Uhr",
-			"In diesem eintägigen Workshop werde ich einige grundlegende Konzepte der Transaktionsanalyse vorstellen. Sie ermöglichen uns mehr Verständnis für unser Denken, Fühlen und Handeln. Dabei gibt es die Gelegenheit eigene Erfahrungen zu reflektieren.",
-			"Infos und Anmeldung per Email: paedacon@posteo.de",
-			"Max. 6 Personen",
-			"Teilnahmegebühr: 90,00 Euro"
-		],
+		]
 	],
 	Kontakt: [
 		"Kontakt",
