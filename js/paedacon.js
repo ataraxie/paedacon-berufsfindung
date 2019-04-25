@@ -53,8 +53,7 @@ window.PAE = {
 		"Die Dauer einer Beratung vereinbare ich individuell. Eine Sitzung kann 60 Minuten, 90 Minuten, 120 Minuten oder einen halben Tag dauern. Die Häufigkeit ist von den individuellen Gegebenheiten und der persönlichen Zielsetzung abhängig. Manche Teilnehmer möchten nur einen schnellen Eindruck bekommen, welche Richtung für sie passt, andere befassen sich so lange mit dem Thema, bis der konkrete Berufswunsch feststeht und auch Umsetzungsmöglichkeiten erörtert wurden.",
 		"Häufig möchten Teilnehmer auch andere persönliche Themen ansprechen und wünschen sich hierfür eine Beratung. Dies ist grundsätzlich möglich.",
 		"Bei einem ersten Treffen werden wir das individuell sinnvolle Vorgehen besprechen.",
-		"Beratung über Skype ist möglich und bei großen Entfernungen auch sinnvoll.",
-		"Die Kosten für eine Beratungsstunde orientieren sich an Stundenlöhnen von selbstständigen Handwerksmeistern. Genaue Informationen erhalten Sie auf Anfrage.",
+		"Beratung über Skype ist möglich und bei großen Entfernungen auch sinnvoll."
 	],
 	Workshops: [
 		"Workshops",
