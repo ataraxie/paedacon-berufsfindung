@@ -43,8 +43,8 @@ window.PAE = {
 			"Fußballtrainer (A-Lizenz)",
 			"Dipl.Sozialpädagoge (FH)",
 			"Kanuguide (VDKS)",
-			"Studium von Psychologie, Pädagogik, Sonderpädagogik (Magister Artium)",
-			"Langjährige Weiterbildung in Transaktionsanalyse"
+			"Studium von Sonderpädagogik, Pädagogik, Psychologie (Magister Artium)",
+			"Transaktionsanalytischer Berater (DGTA)"
 		],
 		"Inzwischen arbeite ich freiberuflich, nachdem ich 27 Jahre in der beruflichen Bildung mit den Schwerpunkten Psychologie, Pädagogik und Heilpädagogik tätig war."
 	],
@@ -57,7 +57,7 @@ window.PAE = {
 	],
 	Workshops: [
 		"Workshops",
-		"Ich biete Workshops für Gruppen an, wobei die Teilnehmerzahl stark begrenzt ist, damit ich jedem Teilnehmer/jeder Teilnehmerin gerecht werden kann.",
+		"Ich biete Workshops für Gruppen an, wobei die Teilnehmerzahl stark begrenzt ist, damit ich jedem Teilnehmer/jeder Teilnehmerin gerecht werden kann. Ebenso gestalte ich Workshops für Personen, die sich bereits als feste Gruppe anmelden.",
 		"Workshop 1: Berufsfindung für Berufstätige und Studierende",
 		[
 			"Samstag, 07.12.2019,  9.30 Uhr - 13.00 Uhr und 14.30 - 18.00 Uhr",
@@ -70,7 +70,7 @@ window.PAE = {
 		[
 			"W2: Samstag, 19.10.2019,  9.30 - 13.00 Uhr und 14.30 - 18.00 Uhr",
 			"W3: Samstag, 09.11.2019,  9.30 - 13.00 Uhr und 14.30 - 18.00 Uhr",
-			"In dem eintägigen Workshop erarbeiten sich die Teilnehmer/innen Ideen und erfahren, welche berufliche Richtung für sie die geeignete ist.",
+			"In den eintägigen Workshops erarbeiten sich die Teilnehmer/innen Ideen und erfahren, welche berufliche Richtung für sie die geeignete ist.",
 			"Infos und Anmeldung per Email: paedacon@posteo.de",
 			"Max. 6 Personen",
 			"Teilnahmegebühr: 90,00 Euro"
